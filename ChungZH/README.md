@@ -14,8 +14,6 @@
 
 ## 起因
 
-> SpencerWoo 开了这个项目，无趣的 ChungZH 把这个项目 fork 了一份，然后建了这个文件。
-
 简单地说：无聊。
 
 ## ChungZH 的项目
